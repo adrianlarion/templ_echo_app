@@ -8,6 +8,9 @@ You can check the tutorial for this here:
 
 https://adrianlarion.com/fullstack-web-app-part-1-golang-echo-templ-backend-skeleton-project/
 
+# Instal deps:
+`go mod tidy`
+
 
 
 
